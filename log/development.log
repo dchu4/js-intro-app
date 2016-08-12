@@ -1,0 +1,1539 @@
+
+
+Started GET "/" for 127.0.0.1 at 2016-06-16 18:38:24 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 3346ms (Views: 3332.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 82ms (Views: 82.0ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-16 18:38:28 -0500
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-16 18:38:53 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-16 18:38:53 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-16 18:38:53 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-16 18:38:53 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2016-06-19 10:35:00 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 386ms (Views: 368.1ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-19 10:35:01 -0500
+
+
+Started GET "/jackhammer" for 127.0.0.1 at 2016-06-19 10:45:30 -0500
+Processing by PagesController#jackhammer as HTML
+  Rendered pages/jackhammer.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 310ms (Views: 300.9ms)
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-19 10:45:31 -0500
+
+
+Started GET "/jackhammer" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+Processing by PagesController#jackhammer as HTML
+  Rendered pages/jackhammer.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 304ms (Views: 299.7ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:06 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:07 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:07 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:07 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:07 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:07 -0500
+
+
+Started GET "/jackhammer" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+Processing by PagesController#jackhammer as HTML
+  Rendered pages/jackhammer.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 185ms (Views: 184.0ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-19 10:47:30 -0500
+
+
+Started GET "/jackhammer" for 127.0.0.1 at 2016-06-19 11:03:17 -0500
+Processing by PagesController#jackhammer as HTML
+  Rendered pages/jackhammer.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 254ms (Views: 249.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-19 11:03:18 -0500
+
+
+Started GET "/jackhammer" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+Processing by PagesController#jackhammer as HTML
+  Rendered pages/jackhammer.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 286ms (Views: 275.8ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-19 11:52:59 -0500
+
+
+Started GET "/jackhammer" for 127.0.0.1 at 2016-06-19 11:53:31 -0500
+Processing by PagesController#jackhammer as HTML
+  Rendered pages/jackhammer.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 244ms (Views: 239.1ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-19 11:53:32 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 399ms (Views: 384.2ms)
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:30 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:31 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:10:31 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 317ms (Views: 312.8ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:18:14 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:21:22 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 325ms (Views: 317.8ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:21:22 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:21:22 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:21:22 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:22 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:21:23 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:23:30 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 248ms (Views: 236.4ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:23:31 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 142ms (Views: 139.8ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:25:02 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 307ms (Views: 300.3ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:26:00 -0500
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:26:24 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:26:24 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:26:24 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:26:24 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 203ms (Views: 201.3ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:00 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:27:33 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 176ms (Views: 175.2ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:34 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 92ms (Views: 91.4ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:27:50 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:29:13 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 288ms (Views: 283.4ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:29:13 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:29:13 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:29:14 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 300ms (Views: 294.5ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:30:39 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 178ms (Views: 177.0ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:31:28 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 312ms (Views: 306.2ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:39:56 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 87ms (Views: 86.2ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:40:19 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 318ms (Views: 313.3ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:42:06 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 225ms (Views: 223.8ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:44:25 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 188ms (Views: 186.9ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:05 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:06 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:06 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:06 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:06 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:06 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:45:06 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 225ms (Views: 219.9ms)
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:53:17 -0500
+
+
+Started GET "/daylight" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+Processing by PagesController#daylight as HTML
+  Rendered pages/daylight.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 127ms (Views: 126.4ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/_external.css?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/async.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/clickFive.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/daylight.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/guess_a_box.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/exercises.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/interact.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/reference.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-06-20 18:54:45 -0500
